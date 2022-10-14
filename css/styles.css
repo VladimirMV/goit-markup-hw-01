@@ -1,0 +1,54 @@
+/* Цвета страницы */
+/*Цвет основного текста #212121 -/* 
+/* Второстепенный #757575 */
+/* Белый #FFFFFF */
+/* Черный #000000 */
+/* Синий #2196F3 */
+.page{
+    color: #212121;
+    background-color: #FFFFFF;
+}
+.logo1{color: #2196F3;}
+.logoblack{color:#000000 ;}
+.logow{color: #FFFFFF;}
+.list {
+    list-style: none;
+}
+/* Навигация */
+.site-nav .link{
+color: #212121;
+}
+.site-nav .link:hover,
+.site-nav .link:focus{
+    color: #2196F3;
+    }
+.adress{
+
+}
+.hiro{
+    width: 1600px;
+    height: 600px;
+    left: 0px;
+    top: 80px;
+    background-color: #2F303A;    
+}
+.hiro-title{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+     text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    
+    color:#FFFFFF;
+
+}
+
+.section-title{
+    color: #212121;
+}
+.benefits-list{
+
+}
